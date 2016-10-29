@@ -1,12 +1,14 @@
-# Alpha blog
+== README
 
-## Introduction
+This is blog app I played with ror for the first time.
 
-> This is a rails app using rails 4.2.5.1 and ruby 2.3.1 version
+Things you may want to cover:
 
-## Code Samples
+* Ruby version 2.3.1
 
-> The demo is on
-> https://alpha-blog-jwang.herokuapp.com/
+* Rails version 4.2.5.1
+
+* Heroku demo link: https://alpha-blog-jwang.herokuapp.com/
+
 
 
